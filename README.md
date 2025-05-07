@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Toshiki Takahashi!!
+# 👋 Hi, I'm Toshiki!!
 Swiftを愛するiOSエンジニアです🍎🐧
 
 ## 🛠️ Tech Stack
